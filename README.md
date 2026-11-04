@@ -1,2 +1,8 @@
-# Add-Skills-section
-My skills 
+## My Skills
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
